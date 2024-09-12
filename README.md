@@ -1,24 +1,32 @@
-# Material
+Aqui está a versão formatada para um README no GitHub:
 
-## OS 5 P’s da Estratégia
+---
 
-### Estratégia como Planejamento
-  • É a estratégia como um plano, uma direção, um caminho para se atingir um objetivo.
-  • É o conceito mais comum associado a estratégia.
+# OS 5 P’s da Estratégia
 
-### Estratégia como Pretexto
-  • Visa manipular, abalar, enganar um concorrente.
-  • É um conceito tático.
+## Estratégia como Planejamento
+A estratégia é vista como um **plano**. 
+- Refere-se à direção ou caminho traçado para atingir um objetivo específico.
+- Este é o conceito mais comum associado à estratégia.
 
-### Estratégia como Padrão
-  • Padrões de comportamento organizacional também são estratégias.
-  • Ao longo do tempo é possível identificar como a empresa decide em certas situações, permitindo
-que ela guarde seu poder de inovação para questões que realmente são necessárias.
+## Estratégia como Pretexto
+A estratégia pode ser um **pretexto**, utilizada para táticas competitivas.
+- Visa manipular, enganar ou desestabilizar concorrentes de forma tática.
+- Focada em ações para confundir ou provocar o mercado.
 
-### Estratégia como Posição
-  • A estratégia é uma forma da empresa se posicionar no ambiente em que está inserida.
+## Estratégia como Padrão
+A estratégia pode ser observada como um **padrão**.
+- Consiste em comportamentos recorrentes e decisões organizacionais ao longo do tempo.
+- Permite que a empresa reserve seu poder de inovação para questões mais críticas.
 
-### Estratégia como Perspectiva
-  • Uma empresa tem seus recursos internos únicos a elas. Pensamentos das pessoas que a integram,
-valores, comportamentos difundidos, a cultura organizacional é única.
-  • Tudo isso é uma perspectiva da empresa, sua estratégia é ser assim.
+## Estratégia como Posição
+A estratégia também é uma **posição**.
+- Refere-se à forma como a empresa se coloca no mercado ou no ambiente competitivo.
+- Define a vantagem competitiva com base no contexto em que está inserida.
+
+## Estratégia como Perspectiva
+A estratégia é uma **perspectiva**.
+- Está relacionada à cultura organizacional, aos valores, crenças e comportamentos únicos de uma empresa.
+- Reflete como a organização se enxerga e se diferencia no mercado com base em suas características internas.
+
+
