@@ -1,7 +1,3 @@
-Aqui está a versão formatada para um README no GitHub:
-
----
-
 # OS 5 P’s da Estratégia
 
 ## Estratégia como Planejamento
